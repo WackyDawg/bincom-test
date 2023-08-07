@@ -25,7 +25,8 @@ To run this project locally, follow these steps:
 4. Import the database: Use the provided SQL file (`database.sql`) to create the necessary tables and data in your MySQL database.
 5. Start a local development server or use a web server software (e.g., Apache) to host the project.
 6. Access the project in your web browser using the appropriate URL.
-7. Admin logins are username:Admin Password:12345
+7. Admin logins are username: Admin Password: 12345
+
 ## Usage
 
 1. Open the project in your web browser.
@@ -52,3 +53,10 @@ Contributions to this project are welcome. If you find any issues or have sugges
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+---
+
+Live Project Links:
+- Individual Polling Unit (ID 12): [Link](https://akatsuki000.000webhostapp.com/Inec/pollingunit.php?id=12)
+- Total Votes Calculation for a Specific Polling Unit: [Link](https://akatsuki000.000webhostapp.com/Inec/summed_total_result.php)
+- Admin Panel - Add New Party Result: [Link](https://akatsuki000.000webhostapp.com/admin/admin_panel.php)
